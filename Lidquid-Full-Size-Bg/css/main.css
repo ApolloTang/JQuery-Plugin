@@ -1,0 +1,7 @@
+* {margin:0; padding:0;}
+html {overflow: hidden;}
+#bg {
+	width:1920px; height:1080px;
+	background: url(../imgs/image.jpg) top left no-repeat; 
+}
+	
